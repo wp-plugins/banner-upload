@@ -79,7 +79,7 @@ function buffercode_BUpload_settings() {
 function buffercode_BUpload_menu_setting() {
 ?>
 <div class="wrap">
-<h2>Random Banner Setting Page</h2>
+<h2>Banner Upload Setting Page</h2>
 
 <form method="post" action="options.php">
     <?php settings_fields( 'buffercode_BUpload_settings_group' ); ?>
