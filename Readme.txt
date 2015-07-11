@@ -22,6 +22,8 @@ Through this plugin admin can,
 * Add the custom title for their widget.
 
 For more information : http://buffercode.com/project/banner-upload/
+
+
 v 1.4(11072015)
 
 * Support 4.2.2
