@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: banner, widget, advertisement, ads, banner ads, widget ads, image ads, image widget, ads upload, upload advertisement, upload widget ads
 Requires at least: 3.3
-Tested up to: 3.9
-Stable tag: 1.3.1
+Tested up to: 4.2.2
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,7 +21,10 @@ Through this plugin admin can,
 * Specific the link for that advertisement, so that when users click the banner, the link will be opened in new window.
 * Add the custom title for their widget.
 
-For more information : http://buffercode.com/wordpress-banner-upload-plugin/
+For more information : http://buffercode.com/project/banner-upload/
+v 1.4(11072015)
+
+* Support 4.2.2
 
 v 1.3 (02042014)
 
@@ -48,7 +51,7 @@ v 1.0
 4. Add the custom title, upload the image, add the image size and URL link.
 5. Do save.
 
-For more information : http://buffercode.com/wordpress-banner-upload-plugin/
+For more information : http://buffercode.com/project/banner-upload/
 
 == Changelog ==
 
@@ -68,7 +71,7 @@ For more information : http://buffercode.com/wordpress-banner-upload-plugin/
 = 1.0 =
 * Public release
 
-For more information : http://buffercode.com/wordpress-banner-upload-plugin/
+For more information : http://buffercode.com/project/banner-upload/
 
 == Screenshots ==
 1. Banner Upload setting page widget
